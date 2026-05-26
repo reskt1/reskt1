@@ -35,6 +35,6 @@ I'm a passionate developer who loves building real-world applications.
 
 ### 📊 My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reskt1&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reskt1&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reskt1&layout=compact&theme=tokyonight)
