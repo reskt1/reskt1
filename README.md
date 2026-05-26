@@ -37,4 +37,15 @@ I'm a passionate developer who loves building real-world applications.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=reskt1&theme=tokyonight)
 
+---
 
+<h2 align="center">🐍 My Contributions 🐍</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chizuyu/Chizuyu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chizuyu/Chizuyu/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Chizuyu/Chizuyu/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
