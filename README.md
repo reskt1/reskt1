@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**reskt1/reskt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nama Kamu
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&width=435&lines=Software+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🧑 About Me
+
+I'm a passionate developer who loves building real-world applications.
+
+- 🎓 Student / Developer
+- 🌱 Currently learning Laravel & Android
+- ⚡ Fun fact: "I balance school life with a lot of semicolons ;"
+
+---
+
+### 🛠 Tech Stacks
+
+**Programming Languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**Frameworks & Databases**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📊 My Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reskt1&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reskt1&layout=compact&theme=tokyonight)
