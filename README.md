@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nama Kamu
+# Muhammad Resky Azzamy
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&width=435&lines=Software+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
 
