@@ -1,7 +1,5 @@
 <div align="center">
 
-# Muhammad Resky Azzamy
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Muhammad%20Resky%20Azzamy&fontSize=40&fontColor=ffffff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&width=435&lines=Full+Stack+Developer;Laravel+%7C+Kotlin+%7C+PHP)](https://git.io/typing-svg)
