@@ -35,8 +35,6 @@ I'm a passionate developer who loves building real-world applications.
 
 ### 📊 My Stats
 
-### 📊 My Stats
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=reskt1&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reskt1&show_icons=true&theme=tokyonight)
+
