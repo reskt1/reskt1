@@ -1,144 +1,167 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Resky Azzamy
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:0f172a,70:111827,100:00c9a7&height=220&section=header&text=MUHAMMAD%20RESKY%20AZZAMY&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 
-### 💻 Full Stack Developer • Laravel Developer • Android Developer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;LARAVEL+%7C+PHP+%7C+FLUTTER;ANDROID+DEVELOPER+IN+PROGRESS;BUILDING+REAL+WORLD+APPLICATIONS;CODE.+DEBUG.+LEARN.+REPEAT.%E2%9A%A1" />
 
-<p>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Muhammad%20Resky%20Azzamy&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=00C9A7\&center=true\&vCenter=true\&width=600\&lines=Building+Web+Applications;Laravel+%7C+PHP+%7C+Flutter;Learning+Android+Development;Turning+Ideas+Into+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00c9a7&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# `> whoami`
 
-I'm a student and developer who enjoys building applications and learning new technologies.
+```yaml
+name: Muhammad Resky Azzamy
+role: Student Developer
+focus:
+  - Web Development
+  - Mobile Development
+  - REST API
+  - Database
+currently_learning:
+  - Laravel
+  - Flutter
+  - Android Development
+  - Software Architecture
 
-* 🎓 Student & Software Developer
-* 🌱 Currently learning **Laravel, PHP, Flutter & Android Development**
-* 🔨 Interested in **Web Development, Mobile Development & CRUD Applications**
-* 🧩 Enjoy solving programming problems and debugging applications
-* ⚡ Fun fact: I balance school life with a lot of semicolons `;`
-
----
-
-## 🚀 What I'm Working On
-
-```text
-🌐 Web Development       → Laravel & PHP
-📱 Mobile Development    → Flutter & Android
-🗄️ Database              → MySQL & REST API
-🔐 Authentication        → Laravel Sanctum
-🎨 UI Development        → Flutter & Blade
-🛠️ Backend               → Laravel REST API
+mindset: "Learn → Build → Debug → Improve"
 ```
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,java,dart,js,html,css" />
-</p>
-
-### 🌐 Frameworks & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,flutter,androidstudio,nodejs" />
-</p>
-
-### 🗄️ Database & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,postman" />
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
-</p>
+> 💻 I enjoy turning ideas into functional applications and learning by building real projects.
 
 ---
 
-## 📌 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📦 Peminjaman Alat
-
-A web-based equipment borrowing management system.
-
-**Built with:**
-
-* Laravel
-* Filament
-* MySQL
-* Filament Shield
-
-**Features:**
-
-* 👤 User Management
-* 📦 Equipment Management
-* 🔐 Role & Permission
-* 📋 Borrowing Management
-* 📊 Admin Dashboard
-
-</td>
-
-<td width="50%">
-
-### 📱 Flutter CRUD App
-
-A mobile application connected to a Laravel REST API.
-
-**Built with:**
-
-* Flutter
-* Dart
-* Laravel
-* REST API
-* MySQL
-* Sanctum
-
-**Features:**
-
-* 🔐 Authentication
-* 📦 Product Management
-* ➕ Create Product
-* ✏️ Edit Product
-* 🗑️ Delete Product
-* 🔎 Search & Filter
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
+# `⚡ TECH STACK`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+### `LANGUAGES`
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=php,java,dart,js,html,css&theme=dark" />
+
+<br><br>
+
+### `FRAMEWORKS & PLATFORMS`
+
+<img src="https://skillicons.dev/icons?i=laravel,flutter,androidstudio,nodejs&theme=dark" />
+
+<br><br>
+
+### `DATABASE & API`
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,postman&theme=dark" />
+
+<br><br>
+
+### `TOOLS`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma&theme=dark" />
+
+</div>
+
+---
+
+# `🚀 FEATURED PROJECTS`
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">📦 Peminjaman Alat</h3>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME/peminjaman_alat">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=peminjaman_alat&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</div>
+
+<br>
+
+**Equipment Borrowing Management System**
+
+```text
+Laravel
+Filament
+MySQL
+Filament Shield
+```
+
+### Features
+
+* 🔐 Authentication
+* 👤 User Management
+* 🛡️ Role & Permission
+* 📦 Equipment Management
+* 📋 Borrowing Management
+* 📊 Dashboard
+* 🖼️ Image Management
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">📱 Flutter CRUD</h3>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME/flutter-crud">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=flutter-crud&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</div>
+
+<br>
+
+**Mobile Product Management Application**
+
+```text
+Flutter
+Dart
+Laravel API
+MySQL
+Sanctum
+```
+
+### Features
+
+* 🔐 Login Authentication
+* 📦 Product CRUD
+* 📷 Product Images
+* 🔎 Search
+* 💰 Price Filter
+* ↕️ Sorting
+* 🌐 REST API
+* 🔑 Bearer Token
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# `📊 GITHUB ANALYTICS`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 </div>
 
@@ -146,91 +169,174 @@ A mobile application connected to a Laravel REST API.
 
 <div align="center">
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+# `🐍 CONTRIBUTION MATRIX`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Chizuyu/Chizuyu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Chizuyu/Chizuyu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-## 🎯 2026 Goals
+# `🎧 CURRENTLY LISTENING`
+
+<div align="center">
+
+<a href="https://open.spotify.com/">
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=00c9a7&bar_color_cover=false"/>
+
+</a>
+
+</div>
+
+> 🎵 Coding sessions are better with good music.
+
+---
+
+# `💬 DISCORD`
+
+<div align="center">
+
+<a href="https://discord.com/">
+
+<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px"/>
+
+</a>
+
+</div>
+
+> 💬 You can find me on Discord while I'm coding, learning, or debugging.
+
+---
+
+# `🧠 CURRENTLY LEARNING`
+
+<div align="center">
 
 ```text
-[x] Learn Laravel fundamentals
-[x] Build CRUD applications
-[x] Build REST API with Laravel
-[x] Connect Flutter with Laravel API
-[ ] Improve Android development
-[ ] Build larger full-stack applications
-[ ] Contribute to Open Source
-[ ] Deploy projects to production
+                    ┌───────────────────┐
+                    │   SOFTWARE DEV    │
+                    └─────────┬─────────┘
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
+        WEB DEVELOPMENT   MOBILE DEV       BACKEND
+             │                │                │
+             ▼                ▼                ▼
+          Laravel          Flutter          REST API
+             │                │                │
+             ▼                ▼                ▼
+          Filament         Android           Sanctum
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
+                              ▼
+                         MySQL / DB
+```
+
+</div>
+
+---
+
+# `🎯 2026 ROADMAP`
+
+```text
+WEB DEVELOPMENT
+████████████████████░░ 90%
+
+LARAVEL
+██████████████████░░░░ 85%
+
+REST API
+████████████████░░░░░░ 75%
+
+FLUTTER
+██████████████░░░░░░░░ 65%
+
+ANDROID
+██████████░░░░░░░░░░░░ 50%
+
+OPEN SOURCE
+████░░░░░░░░░░░░░░░░░░ 20%
 ```
 
 ---
 
-## 📈 My Development Journey
+# `💻 DEVELOPMENT PHILOSOPHY`
 
 <div align="center">
 
 ```text
-PHP
- │
- ├── Laravel
- │    ├── CRUD
- │    ├── Authentication
- │    ├── REST API
- │    └── Filament
- │
- └── MySQL
-
-Dart
- │
- └── Flutter
-      ├── UI
-      ├── CRUD
-      ├── REST API
-      └── Authentication
-
-Java
- │
- └── Android Development
+┌─────────────────────────────────────────────┐
+│                                             │
+│        WRITE CODE                            │
+│             ↓                               │
+│        TEST IT                               │
+│             ↓                               │
+│        FIND BUGS                             │
+│             ↓                               │
+│        DEBUG IT                              │
+│             ↓                               │
+│        LEARN SOMETHING                       │
+│             ↓                               │
+│        BUILD BETTER                          │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
+
+### `Code is not about being perfect.`
+
+### `It's about getting better every day. ⚡`
 
 </div>
 
 ---
 
-## 💡 Current Focus
+# `📈 GITHUB ACTIVITY`
 
-> **"Learn → Build → Break → Debug → Improve"**
+<div align="center">
 
-I'm continuously learning by building real applications, experimenting with new technologies, and improving my programming fundamentals.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00c9a7&line=00c9a7&point=ffffff&area=true&hide_border=true"/>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+# `🌐 CONNECT WITH ME`
 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
-<a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+
+</a>
+
+<a href="https://discord.com/">
+
+<img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+
 </a>
 
 </div>
@@ -239,8 +345,20 @@ I'm continuously learning by building real applications, experimenting with new 
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### `SYSTEM STATUS`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+```text
+[ ONLINE ]  Developer
+[ ONLINE ]  Laravel
+[ ONLINE ]  Flutter
+[ ONLINE ]  Coffee
+[ RUNNING ] Learning...
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:203a43,100:050816&height=140&section=footer&animation=twinkling"/>
+
+### ⭐ Thanks for visiting my profile!
 
 </div>
